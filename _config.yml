@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yuan Sun (孙源)"
   avatar           : "profile.png"
-  bio              : "Ph.D. Associate Professor of BUPT"
+  bio              : "Ph.D., Associate Professor of BUPT"
   location         : "Beijing, China"
   employer         :
-  pubmed           : ""
+  pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ"
   email            : sunyuan@bupt.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : #""
   vine             :
   weibo            :
   xing             :
