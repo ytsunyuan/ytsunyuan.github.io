@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuan Sun"
 title_separator          : "-"
 name                     : &name "Yuan Sun"
-description              : &description "Associate Professor @ BUPT"
+description              : &description "Associate Professor at BUPT"
 url                      : https://ytsunyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ytsunyuan/ytsunyuan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan Sun (孙源)"
   avatar           : "profile.png"
-  bio              : "Associate Professor of BUPT"
+  bio              : "Associate Professor at BUPT"
   location         : "Beijing, China"
   employer         :
   pubmed           : # ""
