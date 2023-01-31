@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, welcome to Yuan Sun's homepage!
+Welcome to Yuan Sun's homepage!
 
 # Biography
 I am currently an Associate Professor in the [School of Electronic Engineering](https://see.bupt.edu.cn/) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). 
