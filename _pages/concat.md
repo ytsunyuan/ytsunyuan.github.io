@@ -5,7 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Email: sunyuan@bupt.edu.cn
-## [School of Electronic Engineering](https://see.bupt.edu.cn/) at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/).
-## Address: NO. 10 Xitucheng Road, Haidian District, Beijing 100876, China.
-
+> <p><b style="line-height:50%"> Email: <a href="mailto:sunyuan@bupt.edu.cn">sunyuan@bupt.edu.cn</a> </b> </p> 
+><p><b width="50%" style="line-height:50%"> Address: NO. 10 Xitucheng Road, Haidian District, Beijing 100876, China. </b> </p>
