@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+My publication list: <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Google scholar</a>.
+
+
 * **Y. Sun** and L. Fu, "[Stacking Ensemble Learning for Non-Line-of-Sight Detection of Global Navigation Satellite System](https://ieeexplore.ieee.org/abstract/document/9764717)," in *IEEE Transactions on Instrumentation and Measurement*, 71:1-10, 2022.
 * **Y. Sun**, "[Autonomous Integrity Monitoring for Relative Navigation of Multiple Unmanned Aerial Vehicles](https://www.mdpi.com/2072-4292/13/8/1483)," in *Remote Sensing*, 13(8):1483, 2021.
 * **Y. Sun**, "[RAIM-NET: A Deep Neural Network for Receiver Autonomous Integrity Monitoring](https://www.mdpi.com/2072-4292/12/9/1503)," in *Remote Sensing*, 12(9):1503, 2020.
