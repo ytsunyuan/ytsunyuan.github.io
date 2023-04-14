@@ -18,6 +18,9 @@ See <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Googl
 
 ## Conference Papers
 
+* **Y. Sun**, Q. Li, Z. Deng, "[Tightly Coupled GNSS/INS Integration Accurate Location Algorithm Under Urban Canyons Based On Factor Graph Optimization](https://www.ion.org/gnss/abstracts.cfm?paperID=12412)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
+* **Y. Sun**, S. Li, Z. Deng, "[Incremental Learning for LOS/NLOS Classification of Global Navigation Satellite System](https://www.ion.org/gnss/abstracts.cfm?paperID=12411)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
+* **Y. Sun**, Y. Zhang, Z. Deng, "[Research on UWB/Inertial Guided Fusion Localization Based on Convolutional Neural Network](https://www.ion.org/gnss/abstracts.cfm?paperID=12416)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * L. Cao, **Y. Sun**, Z. Deng, "[Positioning Capability Characterization of 5G NR for GNSS Auxiliary Navigation](https://www.ion.org/publications/abstract.cfm?articleID=18594)," in *Proc. the 2023 International Technical Meeting of The Institute of Navigation (ITM)*, 2023.
 * F. Meng, **Y. Sun**, Z. Deng, "[A Novel Integrity Monitoring Algorithm for FGO-Based GNSS Positioning System](https://www.ion.org/publications/abstract.cfm?articleID=18609)," in *Proc. the 2023 International Technical Meeting of The Institute of Navigation (ITM)*, 2023.
 * J. Li, **Y. Sun**, Z. Deng, "[Integrity Monitoring for Extreme Indoor Environment Positioning Based on Ultrawideband](https://www.ion.org/publications/abstract.cfm?articleID=18610)," in *Proc. the 2023 International Technical Meeting of The Institute of Navigation (ITM)*, 2023.
