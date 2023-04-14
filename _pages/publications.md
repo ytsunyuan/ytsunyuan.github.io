@@ -17,7 +17,7 @@ See <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Googl
 * **Y. Sun**, J. Zhang, R. Xue, "[Leveraged Fault Identification Method for Receiver Autonomous Integrity Monitoring](https://www.sciencedirect.com/science/article/pii/S1000936115001296)", in *Chinese Journal of Aeronautics*, 28(4):1217-1225, 2015.
 
 ## Conference Papers
-
+* **Y. Sun**, J. Liu, Z. Deng, "[A Cooperative Positioning Algorithm Based On BiLSTM](https://www.ion.org/gnss/abstracts.cfm?paperID=12426)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * **Y. Sun**, Q. Li, Z. Deng, "[Tightly Coupled GNSS/INS Integration Accurate Location Algorithm Under Urban Canyons Based On Factor Graph Optimization](https://www.ion.org/gnss/abstracts.cfm?paperID=12412)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * **Y. Sun**, S. Li, Z. Deng, "[Incremental Learning for LOS/NLOS Classification of Global Navigation Satellite System](https://www.ion.org/gnss/abstracts.cfm?paperID=12411)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * **Y. Sun**, Y. Zhang, Z. Deng, "[Research on UWB/Inertial Guided Fusion Localization Based on Convolutional Neural Network](https://www.ion.org/gnss/abstracts.cfm?paperID=12416)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
