@@ -8,6 +8,7 @@ author_profile: true
 See <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Google scholar</a> for a full list.
 
 ## Journal Papers
+* **Y. Sun**, S. Li, L. Fu, L. Yin, Z. Deng, "[NICL: Non-Line-of-Sight Identification in Global Navigation Satellite Systems with Continual Learning](https://ieeexplore.ieee.org/document/10720840)," in *IEEE Transactions on Vehicular Technology*, 2024.
 * L. Yin, T. Song, Q. Ni, Q. Xiao, **Y. Sun**, W. Guo, "[New Signal and Algorithms for 5G/6G High Precision Train Positioning in Tunnel with Leaky Coaxial Cable](https://ieeexplore.ieee.org/document/10274099/authors#authors)," in *IEEE Journal on Selected Areas in Communications*, 2023.
 * **Y. Sun**, L. Cao, S. Li, Z. Deng, "[G5GIM: Integrity Monitoring for GNSS/5G Integrated Navigation of Urban Vehicles](https://ieeexplore.ieee.org/document/10192461)," in *IEEE Transactions on Instrumentation and Measurement*, 72:1-13, 2023.
 * **Y. Sun** and L. Fu, "[Stacking Ensemble Learning for Non-Line-of-Sight Detection of Global Navigation Satellite System](https://ieeexplore.ieee.org/abstract/document/9764717)," in *IEEE Transactions on Instrumentation and Measurement*, 71:1-10, 2022.
@@ -18,6 +19,8 @@ See <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Googl
 * **Y. Sun**, J. Zhang, R. Xue, "[Leveraged Fault Identification Method for Receiver Autonomous Integrity Monitoring](https://www.sciencedirect.com/science/article/pii/S1000936115001296)", in *Chinese Journal of Aeronautics*, 28(4):1217-1225, 2015.
 
 ## Conference Papers
+* L. Yin, W. Guo, **Y. Sun**, T. Song, Q. Zhang, "[Vehicle Positioning and Integrity Monitoring Based on GNSS/5G/IMU Fusion System in Urban Environments](https://www.ion.org/publications/abstract.cfm?articleID=19724)," in *Proc. the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2024.
+* T. Song, L. Yin, **Y. Sun**, W. Guo, "[IM-TLP: An Integrity Monitoring Algorithm for Two-Stage LCX Positioning Systems](https://ieeexplore.ieee.org/abstract/document/10571335)," in *Proc. IEEE Wireless Communications and Networking Conference (WCNC)*, 2024.
 * **Y. Sun**, S. Li, Z. Deng, "[Incremental Learning for LOS/NLOS Classification of Global Navigation Satellite System](https://www.ion.org/publications/abstract.cfm?articleID=19314)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * **Y. Sun**, Y. Zhang, Z. Deng, "[Research on UWB/Inertial Guided Fusion Localization Based on Convolutional Neural Network](https://www.ion.org/publications/abstract.cfm?articleID=19407)," in *Proc. the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+)*, 2023.
 * L. Cao, **Y. Sun**, Z. Deng, "[Positioning Capability Characterization of 5G NR for GNSS Auxiliary Navigation](https://www.ion.org/publications/abstract.cfm?articleID=18594)," in *Proc. the 2023 International Technical Meeting of The Institute of Navigation (ITM)*, 2023.
