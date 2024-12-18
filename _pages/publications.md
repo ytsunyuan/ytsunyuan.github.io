@@ -8,6 +8,7 @@ author_profile: true
 See <a href="https://scholar.google.com/citations?hl=en&user=mFVn4H4AAAAJ">Google scholar</a> for a full list.
 
 ## Journal Papers
+* Y. Dang, J. Yin, L, Liu, P Ding, **Y. Sun**, Y. Hu, "[DHRNet: A Dual-path Hierarchical Relation Network for multi-person pose estimation](https://www.sciencedirect.com/science/article/abs/pii/S0950705124008979)," in *Knowledge-Based Systems*, 2024.
 * **Y. Sun**, S. Li, L. Fu, L. Yin, Z. Deng, "[NICL: Non-Line-of-Sight Identification in Global Navigation Satellite Systems with Continual Learning](https://ieeexplore.ieee.org/document/10720840)," in *IEEE Transactions on Vehicular Technology*, 2024.
 * L. Yin, T. Song, Q. Ni, Q. Xiao, **Y. Sun**, W. Guo, "[New Signal and Algorithms for 5G/6G High Precision Train Positioning in Tunnel with Leaky Coaxial Cable](https://ieeexplore.ieee.org/document/10274099/authors#authors)," in *IEEE Journal on Selected Areas in Communications*, 2023.
 * **Y. Sun**, L. Cao, S. Li, Z. Deng, "[G5GIM: Integrity Monitoring for GNSS/5G Integrated Navigation of Urban Vehicles](https://ieeexplore.ieee.org/document/10192461)," in *IEEE Transactions on Instrumentation and Measurement*, 72:1-13, 2023.
